@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', 'Montserrat', sans-serif;
+}
+
+.background{
+    opacity: 0.7;
+    height: 100vh;
+    width: 100vw;
+    background-image: "../images/background-section-one.jpg";
+    position: fixed;
+}
+
+#header{
+    padding: 15px 0px 15px 10px;
+    text-align: center;
+    opacity: 0.9;
+}
+
+.cidade-sp{
+    opacity: 0.9;
+    padding: 20px;
+    font-weight: 500;
+    font-size: large;
+    text-align: center;
+}
+
+#title-cusiosity{
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    opacity: 0.9;
+    padding: 20px;
+}
+
+.curiosity{
+    font-family: 'Roboto', 'Montserrat', sans-serif;
+    font-size: 1.3em;
+    opacity: 0.9;
+    display: block;
+    margin-left: calc(50% - 200px);
+    text-align: left;
+    padding: 10px;
+}
+
+.footer{
+    opacity: 0.9;
+    padding: 20px;
+    text-align: center;
+}
